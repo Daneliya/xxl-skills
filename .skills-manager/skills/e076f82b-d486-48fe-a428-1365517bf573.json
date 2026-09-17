@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e076f82b-d486-48fe-a428-1365517bf573",
+  "path": "apifox-sync",
+  "path_key": "apifox-sync",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

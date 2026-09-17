@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a2a5e4f-2f48-4672-b1ad-4fa3424fc3bb",
+  "path": "xiaohei-behemoth-creature-prompt",
+  "path_key": "xiaohei-behemoth-creature-prompt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
