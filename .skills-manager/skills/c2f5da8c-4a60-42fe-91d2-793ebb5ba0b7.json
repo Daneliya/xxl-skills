@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2f5da8c-4a60-42fe-91d2-793ebb5ba0b7",
+  "path": "wechat-draft-push",
+  "path_key": "wechat-draft-push",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
